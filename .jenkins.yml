@@ -1,0 +1,9 @@
+# DATABASE-REDSHIFT — Unificacion PGM (SP_R1 / SP_R2 / SP_R3)
+version: 1.0.0
+global:
+  application: dba_rncr_batch
+  type: program
+  tech: database
+  language: redshift
+  jdk: 8
+  order: 2
